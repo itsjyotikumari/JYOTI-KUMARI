@@ -13,7 +13,7 @@
 ## Default Login Credentials
 Username             | Password
 ---------------------|------------------------------------------
-itsjyotikumari         tkjpg@135
+itsjyotikumari                 tkjpg@135
 
 ## Folder Structure
 |Folder               | Description
