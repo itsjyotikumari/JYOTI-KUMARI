@@ -15,27 +15,27 @@ In the recent years, computers are included in almost all kind of works and jobs
 
 Benefits
 
-Bank Management System offers a range of benefits to providers medium and small.. Here are just a few of them:
+-Bank Management System offers a range of benefits to providers medium and small.. Here are just a few of them:
 
-Better Account Management
+-Better Account Management
 
-This application provides you a mechanism store, update and delete account details as per your requirement.
+-This application provides you a mechanism store, update and delete account details as per your requirement.
 
-Less burden on employes
+-Less burden on employes
 
-Application is automated so no mannual work is required.
+-Application is automated so no mannual work is required.
 
-Reduce Time
+-Reduce Time
 
-Seaching of a account is very easy as well as updation of account balance is automated.
+-Seaching of a account is very easy as well as updation of account balance is automated.
 
-Secured
+-Secured
 
-Applicated is secured using login page so only authorized person can view, update the account
+-Applicated is secured using login page so only authorized person can view, update the account
 
-organized
+-organized
 
-Organization of file is automated no manual work requied.
+-Organization of file is automated no manual work requied.
 
 Cost and Features with Time:
 
