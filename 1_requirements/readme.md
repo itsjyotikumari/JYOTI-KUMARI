@@ -39,10 +39,9 @@ Benefits
 
 Cost and Features with Time:
 
-Time	                     Feature	                        Cost
-2000 BC       	The beganing of banking System	            free
-1397-1463      	The modernization of the bank             	free
-2001-2021     The emergence of Bank Management System	    $5-$10
+time-2001-2021    
+feature-The emergence of Bank Management System
+cost-($5-$10)
 
 
 Defining Our System
