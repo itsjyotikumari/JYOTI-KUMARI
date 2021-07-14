@@ -3,6 +3,9 @@
 
 
 
+[![C/C++ CI - Build Status](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/c-cpp.yml)
+
+
 
 ## Folder Structure
 |Folder               | Description
