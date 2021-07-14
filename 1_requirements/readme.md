@@ -45,3 +45,5 @@ cost-($5-$10)
 
 
 Defining Our System
+![image](https://user-images.githubusercontent.com/86471638/125631407-3b5d51e5-bf81-48c8-9848-ce12b0468d09.png)
+
