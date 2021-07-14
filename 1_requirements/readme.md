@@ -45,5 +45,56 @@ cost-($5-$10)
 
 
 Defining Our System
+
+
 ![image](https://user-images.githubusercontent.com/86471638/125631407-3b5d51e5-bf81-48c8-9848-ce12b0468d09.png)
+
+Explanation:
+
+-Bank Management System have few inbuilt features like:
+
+.Create new account
+.Update information of existing account
+.Removing existing account
+.Check the detail of existing account
+.List of all account
+.Delete all account
+.Open calculator
+.Change login credentials
+.Making a withdrawl
+
+SWOT ANALYSIS
+
+
+![image](https://user-images.githubusercontent.com/86471638/125631951-1884c9f9-4e9f-4f24-81dd-b86b9730a5c2.png)
+
+
+4W's and 1'H
+
+Who:
+Small/Medium size bank can use this application
+
+What:
+They can use it to manage the account of their customer and can provide a way for the customer to make a withdrawl
+
+When:
+This problem emerge when the cutomer base of bank increased rapidly and multiple transactions take place simultaneously
+
+Where:
+Bank Management System can be Run on both os linux and window as well as
+
+How:
+It will help banks to keep thier customer account updated and will also enable cutomer to make a withdrawl
+
+Detail requirements
+
+High Level Requirements:
+
+![image](https://user-images.githubusercontent.com/86471638/125632446-e793ac95-ecd1-4922-bbaf-d0287cb77a97.png)
+
+Low level Requirements:
+
+![image](https://user-images.githubusercontent.com/86471638/125632702-0144b86e-d10e-4f92-96fa-9f5efff3ff79.png)
+
+
 
