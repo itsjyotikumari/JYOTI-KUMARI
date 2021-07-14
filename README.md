@@ -3,16 +3,13 @@
 
 ![Banner](https://github.com/itsjyotikumari/Project/blob/master/6_ImagesAndVideos/Banner.png)
 
-|Build|Unit Test|cppcheck|Valgrind|Coverage|
-|:--:|:--:|:--:|:--:|:--:|
-|[![C/C++ CI](https://github.com/itsjyotikumari/Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/itsjyotikumari/Project/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/itsjyotikumari/Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/itsjyotikumari/Project/actions/workflows/unit-test.yml)|[![cppcheck-action](https://github.com/itsjyotikumari/Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/itsjyotikumari/Project/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/itsjyotikumari/Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/itsjyotikumari/Project/actions/workflows/Valgrind.yml)|[![CI-Coverage](https://github.com/itsjyotikumari/Project/actions/workflows/gcov.yml/badge.svg)](https://github.com/itsjyotikumari/Project/actions/workflows/gcov.yml)|
 
 
 
 
 ## Default Login Credentials
-Username             | Password
----------------------|------------------------------------------
+Username                   | Password
+---------------------      |------------------------------------------
 itsjyotikumari                 tkjpg@135
 
 ## Folder Structure
