@@ -7,26 +7,42 @@ In bank management system we have two sub part admin and customer where the admi
 
 This topic was chosen because it gives me an opportunity to implement and understand multiple C programming concepts.
 
+
 Research
+
 Bank Management System Features and Benefits
 In the recent years, computers are included in almost all kind of works and jobs everyone come across in the routine. The availability of the software’s for almost every process or every system has taken the world in its top-gear and fastens the day-to-day life. So, we have tried our best to develop the software program for the Bank Management System where all the tasks to manage the bank system are performed easily and efficiently. It manages all the transactions like new account entry, deposit as well as withdraw entry, transaction of money for various processes,accunt managment, managing bills cash or cheque, etc. Thus, above features of this software will save transaction time and therefore increase the efficiency of the system.
 
 Benefits
+
 Bank Management System offers a range of benefits to providers medium and small.. Here are just a few of them:
 
 Better Account Management
+
 This application provides you a mechanism store, update and delete account details as per your requirement.
+
 Less burden on employes
+
 Application is automated so no mannual work is required.
+
 Reduce Time
+
 Seaching of a account is very easy as well as updation of account balance is automated.
+
 Secured
+
 Applicated is secured using login page so only authorized person can view, update the account
+
 organized
+
 Organization of file is automated no manual work requied.
-Cost and Features with Time
-Time	Feature	Cost
-2000 BC	The beganing of banking System	free
-1397-1463	The modernization of the bank	free
-2001-2021	The emergence of Bank Management System	$5-$10
+
+Cost and Features with Time:
+
+Time	                     Feature	                        Cost
+2000 BC       	The beganing of banking System	            free
+1397-1463      	The modernization of the bank             	free
+2001-2021     The emergence of Bank Management System	    $5-$10
+
+
 Defining Our System
