@@ -5,6 +5,10 @@
 
 [![C/C++ CI - Build Status](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/itsjyotikumari/JYOTI-KUMARI/actions/workflows/gitinspector.yml)
+
+
+
 
 
 ## Folder Structure
