@@ -31,7 +31,7 @@
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|Total Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`298100`| Jyoti Kumari| Account Management & Calculator    | No  | No  | 4        | 4 |     
+`298100`| Jyoti Kumari| Account Management & Calculator    | No  | No  | 7       | 6 |     
    
 
 ## Challenges Faced and How Was It Overcame
